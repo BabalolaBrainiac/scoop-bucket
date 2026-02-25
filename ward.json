@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/BabalolaBrainiac/wardscribe-v2/releases/download/v0.1.0/ward_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ward.exe"
+            ],
+            "hash": "7b94a8d4bb00ccabc528093fc77615c904d972ddad5caf787728465d72b89bdd"
+        }
+    },
+    "homepage": "https://wardscribe.io",
+    "license": "MIT",
+    "description": "WardScribe CLI - Write once. Deploy everywhere.",
+    "persist": [
+        "config.yaml"
+    ]
+}
